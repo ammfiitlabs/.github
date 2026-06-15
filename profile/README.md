@@ -29,3 +29,218 @@
 
 > Последнее обновление: 09.06.2025
 </details>
+
+
+
+
+>Updated **15.06.2026** в **22:14:35** MSK
+
+<details>
+<summary>Semester: 1</summary>
+
+DevContainer C++ development [[open]](https://github.com/ammfiitlabs/cpp-devcontainer_1-2-3-4-5-6-7-semester) 
+
+</details>
+
+<details>
+<summary>Semester: 2</summary>
+
+DevContainer C++ development [[open]](https://github.com/ammfiitlabs/cpp-devcontainer_1-2-3-4-5-6-7-semester) 
+
+Moscow-Travel-Guide [[open]](https://github.com/ammfiitlabs/Moscow-Travel-Guide_2-semester) 
+
+Информатика и программирование 2 семестр: Курсовая [[open]](https://github.com/ammfiitlabs/computer-science-and-programming_2-semester) 
+
+Консольный бой покемонов 3 на 3 на С++ [[open]](https://github.com/ammfiitlabs/cpp-pockemon-fights_2-semester) 
+
+Пакеты прикладных программ 2 семестр [[open]](https://github.com/ammfiitlabs/application-software-packages_2-semester) 
+
+Песочница для работы с матрицами на С++ (инициализация, вывод, транспонирование, отражение, прокрутка по обоим сторонам часовой стрелки, сложение, умножение, удаление) [[open]](https://github.com/ammfiitlabs/cpp-sandbox-matrix-calculator_2-semester) 
+
+</details>
+
+<details>
+<summary>Semester: 3</summary>
+
+DevContainer C++ development [[open]](https://github.com/ammfiitlabs/cpp-devcontainer_1-2-3-4-5-6-7-semester) 
+
+Объектно-ориентированное программирование 3 семестр [[open]](https://github.com/ammfiitlabs/OOP_3-semester) 
+
+Структуры данных и алгоритмы 3 и 4 семестр [[open]](https://github.com/ammfiitlabs/data-structures-and-algorithms_3-4-semester) 
+
+Экономика 3 семестр [[open]](https://github.com/ammfiitlabs/economy-presentation_3-semester) 
+
+</details>
+
+<details>
+<summary>Semester: 4</summary>
+
+DevContainer C++ development [[open]](https://github.com/ammfiitlabs/cpp-devcontainer_1-2-3-4-5-6-7-semester) 
+
+Reading log по Английскому 4 семестр [[open]](https://github.com/ammfiitlabs/english-reading-log_4-semester) 
+
+Архитектуры вычислительных систем 4 семестр [[open]](https://github.com/ammfiitlabs/architecture-of-computing-systems_4-semester) 
+
+Базы данных 4 и 5 семестр [[open]](https://github.com/ammfiitlabs/db_4-5-semester) 
+
+Операционные системы 4 семестр [[open]](https://github.com/ammfiitlabs/OS_4-semester) 
+
+Структуры данных и алгоритмы 3 и 4 семестр [[open]](https://github.com/ammfiitlabs/data-structures-and-algorithms_3-4-semester) 
+
+</details>
+
+<details>
+<summary>Semester: 5</summary>
+
+DevContainer C++ development [[open]](https://github.com/ammfiitlabs/cpp-devcontainer_1-2-3-4-5-6-7-semester) 
+
+DevContainer Python development [[open]](https://github.com/ammfiitlabs/python-devcontainer_5-semester) 
+
+Архитектуры мобильных систем 5 семестр [[open]](https://github.com/ammfiitlabs/mobile-device-architectures_5-semester) 
+
+Архитектуры современных микропроцессоров 5 семестр [[open]](https://github.com/ammfiitlabs/architecture-of-modern-microprocessors_5-semester) 
+
+Базы данных 4 и 5 семестр [[open]](https://github.com/ammfiitlabs/db_4-5-semester) 
+
+Компьютерные сети 5 семестр [[open]](https://github.com/ammfiitlabs/computer-networks_5-semester) 
+
+Математические основы компьютерной графики 5 семестр [[open]](https://github.com/ammfiitlabs/mathematical-foundations-of-computer-graphics_5-semester) 
+
+Параллельное программирование 5 семестр [[open]](https://github.com/ammfiitlabs/async-programming_5-semester) 
+
+Программирование на C# 5 семестр [[open]](https://github.com/ammfiitlabs/c-sharp_5-semester) 
+
+Программирование на python 5 семестр [[open]](https://github.com/ammfiitlabs/python_5-semester) 
+
+Численные методы 5 семестр [[open]](https://github.com/ammfiitlabs/numerical-methods_5-semester) 
+
+</details>
+
+<details>
+<summary>Semester: 6</summary>
+
+DevContainer C++ development [[open]](https://github.com/ammfiitlabs/cpp-devcontainer_1-2-3-4-5-6-7-semester) 
+
+Java 6 семестр  [[open]](https://github.com/ammfiitlabs/java_6-semester) 
+
+Компьютерная графика 6 семестр: 2d Самолет с текстурами  [[open]](https://github.com/ammfiitlabs/computer-graphics-plane_6-semester) 
+
+Компьютерная графика 6 семестр: 3d гитара без фона [[open]](https://github.com/ammfiitlabs/computer-graphics-guitar-without-background_6-semester) 
+
+Компьютерная графика 6 семестр: 3d гитара с фоном  [[open]](https://github.com/ammfiitlabs/computer-graphics-guitar_6-semester) 
+
+Компьютерная графика 6 семестр: 3d куб с текстурой  [[open]](https://github.com/ammfiitlabs/computer-graphics-texture-cube_6-semester) 
+
+Компьютерная графика 6 семестр: источник света  [[open]](https://github.com/ammfiitlabs/computer-graphics-spotlight_6-semester) 
+
+Компьютерная графика 6 семестр: куб с текстурой [[open]](https://github.com/ammfiitlabs/computer-graphics-texture-square_6-semester) 
+
+Компьютерная графика 6 семестр: машинка 3d  [[open]](https://github.com/ammfiitlabs/computer-graphics-truck_6-semester) 
+
+Компьютерная графика 6 семестр: мебель 3d  [[open]](https://github.com/ammfiitlabs/computer-graphics-mebel_6-semester) 
+
+Компьютерная графика 6 семестр: улитка 3d  [[open]](https://github.com/ammfiitlabs/computer-graphics-snail_6-semester) 
+
+Курсовая работа 6 семестр [[open]](https://github.com/ammfiitlabs/coursework_6-semester) 
+
+Научно-исследовательские работы 6, 7, 8 семестр [[open]](https://github.com/ammfiitlabs/VSU-scientific-activities_6-7-8-semester) 
+
+Объектно-ориентированный анализ и проектирование 6 семестр [[open]](https://github.com/ammfiitlabs/object-oriented-analysis-and-design_6-semester) 
+
+Основы научно-исследовательской деятельности 6 семестр [[open]](https://github.com/ammfiitlabs/fundamentals-of-scientific-research-activities_6-semester) 
+
+Основы облачных вычислений 6 семестр [[open]](https://github.com/ammfiitlabs/cloud-computing-basics_6-semester) 
+
+Отчет по курсовой работе 6 семестр [[open]](https://github.com/ammfiitlabs/coursework-report_6-semester) 
+
+Отчет по летней практике 6 семестр [[open]](https://github.com/ammfiitlabs/summer-practice_6-semester) 
+
+Программирование встроенных систем 6 семестр [[open]](https://github.com/ammfiitlabs/embedded-system-programming_6-semester) 
+
+Проектирование информационных систем 6 семестр [[open]](https://github.com/ammfiitlabs/information-systems-design_6-semester) 
+
+Численные методы 6 семестр [[open]](https://github.com/ammfiitlabs/numerical-methods_6-semester) 
+
+</details>
+
+<details>
+<summary>Semester: 7</summary>
+
+DevContainer C++ development [[open]](https://github.com/ammfiitlabs/cpp-devcontainer_1-2-3-4-5-6-7-semester) 
+
+DevContainer Haskell development [[open]](https://github.com/ammfiitlabs/haskell-devcontainer_7-semester) 
+
+Simple gallery "Catlery" on swift 7 semester [[open]](https://github.com/ammfiitlabs/Catlery-swift_7-semester) 
+
+Tetris game on swift 7 semester [[open]](https://github.com/ammfiitlabs/Tetris-swift_7-semester) 
+
+Информационная безопасность 7 семестр [[open]](https://github.com/ammfiitlabs/information-security_7-semester) 
+
+Методы компиляции 7 семестр  [[open]](https://github.com/ammfiitlabs/compilation-methods_7-semester) 
+
+Научно-исследовательские работы 6, 7, 8 семестр [[open]](https://github.com/ammfiitlabs/VSU-scientific-activities_6-7-8-semester) 
+
+Реляционные системы управления базами данных 7 семестр [[open]](https://github.com/ammfiitlabs/relational-databases_7-semester) 
+
+Философия 7 семестр [[open]](https://github.com/ammfiitlabs/philosophy_7-semester) 
+
+Функциональное программирование 7 семестр [[open]](https://github.com/ammfiitlabs/functional-programming_7-semester) 
+
+</details>
+
+<details>
+<summary>Semester: 8</summary>
+
+Алгоритмы в биоинформатике 8 семестр [[open]](https://github.com/ammfiitlabs/algorithms-in-bioinformatics_8-semester) 
+
+Научно-исследовательские работы 6, 7, 8 семестр [[open]](https://github.com/ammfiitlabs/VSU-scientific-activities_6-7-8-semester) 
+
+Программирование Web-приложений 8 семестр [[open]](https://github.com/ammfiitlabs/vue-3-tetris_8-semester) 
+
+Психология личности и ее саморазвития 8 семестр [[open]](https://github.com/ammfiitlabs/psychology-of-personality-and-its-self-development_8-semester) 
+
+</details>
+
+<details>
+<summary>Semester: test</summary>
+
+test test semester [[open]](https://github.com/ammfiitlabs/test-project_test-semester) 
+
+</details>
+
+<details>
+<summary>others</summary>
+
+DevContainer Latex Development [[open]](https://github.com/ammfiitlabs/latex-devcontainer) 
+
+DevContainer Ubuntu as replacement for WSL [[open]](https://github.com/ammfiitlabs/ubuntu-devcontainer) 
+
+Git pusher - программа для быстрого пуша индекса в текущую ветку (source code on Python and C++) [[open]](https://github.com/ammfiitlabs/cpp-py-gitpusher) 
+
+Microsoft-Office-LTS-Professional-Plus-2021  [[open]](https://github.com/ammfiitlabs/Microsoft-Office-LTS-Professional-Plus-2021) 
+
+Scripts .cmd for installing windows programs, adding some apps such as Git, CMD, Intellij IDEA, Android Studio, VSCode to context file manager menu  [[open]](https://github.com/ammfiitlabs/cmd-install) 
+
+Автоматическое обновление списка репозиториев в профиле организации [[open]](https://github.com/ammfiitlabs/update-repos) 
+
+Игрушечная вирусная программа, которая создает сотни тысяч пустых файлов, заставляя виснуть ПК [[open]](https://github.com/ammfiitlabs/cpp-virus-filecreator) 
+
+Ленивый Git: скрипт для пуша всех файлов из индекса с текущим DateTime и скрипт с аргументом в качестве commit message [[open]](https://github.com/ammfiitlabs/linux-git-pusher) 
+
+Методы для работы с матрицами на С++ (умножение, транспонирование) [[open]](https://github.com/ammfiitlabs/cpp-methods-for-matrix) 
+
+Набор файлов для vscode для работы с С++ на Linux [[open]](https://github.com/ammfiitlabs/vscode-for-cpp-linux) 
+
+Набор файлов для vscode для работы с С++ на Windows [[open]](https://github.com/ammfiitlabs/vscode-for-cpp-windows) 
+
+Программа для создания спиральной матрицы N*N на C++ [[open]](https://github.com/ammfiitlabs/cpp-spiral) 
+
+Программа для создания спиральной матрицы N*N на Python [[open]](https://github.com/ammfiitlabs/py-spiral) 
+
+Проект для конвертации PDF<->DOCX и соединения PDF файлов [[open]](https://github.com/ammfiitlabs/python-pdf-helpers) 
+
+Тулза для Windows: проверка целостности системных файлов, создание точек восстановления, вкл/выкл справки, очистка кэша, серийная информация об устройства и др [[open]](https://github.com/ammfiitlabs/cpp-windows-tools) 
+
+Файлы для изменения имени в коммитах по дереву репозитория [[open]](https://github.com/ammfiitlabs/updating-name-in-commits) 
+
+</details>
