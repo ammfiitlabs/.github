@@ -33,7 +33,7 @@
 
 
 
->Updated **15.06.2026** в **22:14:35** MSK
+>Updated **16.06.2026** в **07:46:03** MSK
 
 <details>
 <summary>Semester: 1</summary>
@@ -151,10 +151,6 @@ Java 6 семестр  [[open]](https://github.com/ammfiitlabs/java_6-semester)
 
 Основы облачных вычислений 6 семестр [[open]](https://github.com/ammfiitlabs/cloud-computing-basics_6-semester) 
 
-Отчет по курсовой работе 6 семестр [[open]](https://github.com/ammfiitlabs/coursework-report_6-semester) 
-
-Отчет по летней практике 6 семестр [[open]](https://github.com/ammfiitlabs/summer-practice_6-semester) 
-
 Программирование встроенных систем 6 семестр [[open]](https://github.com/ammfiitlabs/embedded-system-programming_6-semester) 
 
 Проектирование информационных систем 6 семестр [[open]](https://github.com/ammfiitlabs/information-systems-design_6-semester) 
@@ -181,8 +177,6 @@ Tetris game on swift 7 semester [[open]](https://github.com/ammfiitlabs/Tetris-s
 Научно-исследовательские работы 6, 7, 8 семестр [[open]](https://github.com/ammfiitlabs/VSU-scientific-activities_6-7-8-semester) 
 
 Реляционные системы управления базами данных 7 семестр [[open]](https://github.com/ammfiitlabs/relational-databases_7-semester) 
-
-Философия 7 семестр [[open]](https://github.com/ammfiitlabs/philosophy_7-semester) 
 
 Функциональное программирование 7 семестр [[open]](https://github.com/ammfiitlabs/functional-programming_7-semester) 
 
