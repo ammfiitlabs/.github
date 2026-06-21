@@ -33,7 +33,7 @@
 
 
 
->Updated **20.06.2026** в **07:01:51** MSK
+>Updated **21.06.2026** в **07:43:06** MSK
 
 <details>
 <summary>Semester: 1</summary>
